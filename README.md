@@ -147,6 +147,7 @@ Disable:
 ```
 defaults write com.apple.AppleMultitouchTrackpad TrackpadFourFingerPinchGesture -int 0
 ```
+Note: You may need to restart services or logout for this change to take effect
 
 Reset:
 
